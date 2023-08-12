@@ -21,15 +21,15 @@ To use this repository, you need to have the following software installed on you
 * VS Code  
 
 You can clone this repository using the following command:  
-  ```git clone https://github.com/myusername/myrepository.git
+  ```git clone https://github.com/myusername/myrepository.git```
 
 ## ****Usage****
 
 To run the files in this repository, you need to navigate to the corresponding folder and execute the appropriate command. For example, to run a Python script, you can use:  
-  ```python script.py
+  ```python script.py```
 
 To run a R script, you can use:  
-  ```Rscript script.R
+  ```Rscript script.R```
 
 To run a Node.js app, you can use:  
   ```node app.js
