@@ -32,10 +32,10 @@ To run a R script, you can use:
   ```Rscript script.R```
 
 To run a Node.js app, you can use:  
-  ```node app.js
+  ```node app.js```
 
 To open a VS Code project, you can use:  
-  ```code project.code-workspace
+  ```code project.code-workspace```
 
 ## ****License****  
 This repository is licensed under the MIT License. See the ***LICENSE*** file for more details.
