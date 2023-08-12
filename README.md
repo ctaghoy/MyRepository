@@ -5,7 +5,7 @@ This is a repository for my personal projects and experiments.
 
 This repository contains various files and folders related to different topics and technologies that I am interested in or learning about.  
 
-Some of the topics include:  
+Some of the topics include:
 * Statistics  
 * Machine learning  
 * Web development  
@@ -13,7 +13,7 @@ Some of the topics include:
 * Generative art  
 * Installation  
 
-To use this repository, you need to have the following software installed on your system:  
+To use this repository, you need to have the following software installed on your system:
 * Git  
 * Python  
 * R  
