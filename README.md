@@ -1,5 +1,5 @@
-# testrepo
-## Editing the file.
+# TESTRepo
+
 ### My Repository
 This is a repository for my personal projects and experiments.
 
