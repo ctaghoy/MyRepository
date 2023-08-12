@@ -1,16 +1,16 @@
 # testrepo
 ## Editing the file.
-My Repository
+### My Repository
 This is a repository for my personal projects and experiments.
 
-Description
-This repository contains various files and folders related to different topics and technologies that I am interested in or learning about. Some of the topics include:
+#Description
+#This repository contains various files and folders related to different topics and technologies that I am interested in or #learning about. Some of the topics include:
 
-Statistics
-Machine learning
-Web development
-Data visualization
-Generative art
+#Statistics
+#Machine learning
+#Web development
+#Data visualization
+#Generative art
 Installation
 To use this repository, you need to have the following software installed on your system:
 
