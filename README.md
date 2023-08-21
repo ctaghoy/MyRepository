@@ -38,4 +38,4 @@ To open a VS Code project, you can use:
   ```code project.code-workspace```
 
 ## ****License****  
-This repository is licensed under the MIT License. See the ***LICENSE*** file for more details.
+This repository is licensed under the MIT License. See the ***[LICENSE](https://github.com/remy/mit-license)*** file for more details.
